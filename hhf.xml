@@ -2,7 +2,7 @@
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<atom:link rel="self" type="application/rss+xml" href="http://www.harryhogfootball.com/podcast.xml" />
-		<lastBuildDate>Tue, 05 Aug 2014 22:07:55 -0400</lastBuildDate>
+		<lastBuildDate>Tue, 12 Aug 2014 21:56:15 -0400</lastBuildDate>
 		<title>Hacked! Harry Hog Football: The Original Washington Redskins Fan Podcast</title>
 		<itunes:author>Harry Hog Football</itunes:author>
 		<link>http://www.harryhogfootball.com</link>
@@ -40,6 +40,20 @@ Hail to the Redskins!</itunes:summary>
 		<itunes:category text="News &amp; Politics" />
 		<itunes:keywords>Washington, Redskins, Harry Hog, Football, NFL, Hail to the Redskins!, &apos;Skins, </itunes:keywords>
 		<itunes:explicit>no</itunes:explicit>
+		<item>
+			<title>Episode 364</title>
+			<itunes:author>Harry Hog</itunes:author>
+			<description><![CDATA[Aaron, Josh, and John talk about the preseason match up between the Redskins and the (cheater) Patriots.]]></description>
+			<itunes:subtitle>Aaron, Josh, and John talk about the preseason match up between the Redskins and the (cheater) Patriots.</itunes:subtitle>
+			<itunes:summary />
+			<enclosure url="http://www.harryhogfootball.com/Episode%20364.mp3" type="audio/mpeg" length="27289190" />
+			<guid>http://www.harryhogfootball.com/Episode%20364.mp3</guid>
+			<pubDate>Tue, 12 Aug 2014 21:55:23 -0400</pubDate>
+			<category>Sports</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>01:04:53</itunes:duration>
+			<itunes:keywords>Washington, Redskins, Harry Hog, Football, NFL, Hail to the Redskins!, &apos;Skins, </itunes:keywords>
+		</item>
 		<item>
 			<title>Episode 363</title>
 			<itunes:author>Harry Hog</itunes:author>
