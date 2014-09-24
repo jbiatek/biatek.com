@@ -2,7 +2,7 @@
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<atom:link rel="self" type="application/rss+xml" href="http://www.harryhogfootball.com/podcast.xml" />
-		<lastBuildDate>Thu, 18 Sep 2014 22:13:49 -0400</lastBuildDate>
+		<lastBuildDate>Tue, 23 Sep 2014 21:55:15 -0400</lastBuildDate>
 		<title>Hacked! Harry Hog Football: The Original Washington Redskins Fan Podcast</title>
 		<itunes:author>Harry Hog Football</itunes:author>
 		<link>http://www.harryhogfootball.com</link>
@@ -40,6 +40,20 @@ Hail to the Redskins!</itunes:summary>
 		<itunes:category text="News &amp; Politics" />
 		<itunes:keywords>Washington, Redskins, Harry Hog, Football, NFL, Hail to the Redskins!, &apos;Skins, </itunes:keywords>
 		<itunes:explicit>no</itunes:explicit>
+		<item>
+			<title>Episode 370- The Glory Hole</title>
+			<itunes:author>Harry Hog</itunes:author>
+			<description><![CDATA[Aaron, Josh, and John, talk about the game against the Eagles, the Deangelo Hall injury, Chet's hit on Foles and much, much, more!]]></description>
+			<itunes:subtitle>Aaron, Josh, and John, talk about the game against the Eagles, the Deangelo Hall injury, Chet&apos;s hit on Foles and much, much, more!</itunes:subtitle>
+			<itunes:summary />
+			<enclosure url="http://www.harryhogfootball.com/Episode%20370.mp3" type="audio/mpeg" length="27229793" />
+			<guid>http://www.harryhogfootball.com/Episode%20370.mp3</guid>
+			<pubDate>Tue, 23 Sep 2014 21:53:22 -0400</pubDate>
+			<category>Sports</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>01:04:44</itunes:duration>
+			<itunes:keywords>Washington, Redskins, Harry Hog, Football, NFL, Hail to the Redskins!, &apos;Skins, </itunes:keywords>
+		</item>
 		<item>
 			<title>Episode 369- Legitable</title>
 			<itunes:author>Harry Hog</itunes:author>
