@@ -2,7 +2,7 @@
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<atom:link rel="self" type="application/rss+xml" href="http://www.harryhogfootball.com/podcast.xml" />
-		<lastBuildDate>Tue, 14 Oct 2014 21:59:34 -0400</lastBuildDate>
+		<lastBuildDate>Tue, 21 Oct 2014 21:57:53 -0400</lastBuildDate>
 		<title>Hacked! Harry Hog Football: The Original Washington Redskins Fan Podcast</title>
 		<itunes:author>Harry Hog Football</itunes:author>
 		<link>http://www.harryhogfootball.com</link>
@@ -40,6 +40,20 @@ Hail to the Redskins!</itunes:summary>
 		<itunes:category text="News &amp; Politics" />
 		<itunes:keywords>Washington, Redskins, Harry Hog, Football, NFL, Hail to the Redskins!, &apos;Skins, </itunes:keywords>
 		<itunes:explicit>no</itunes:explicit>
+		<item>
+			<title>Episode 374- Colt (Pew Pew Pew) McCoy</title>
+			<itunes:author>Harry Hog</itunes:author>
+			<description><![CDATA[Aaron, Josh and John talk about the game against the Titans and of course the upcoming matchup with Dallass.]]></description>
+			<itunes:subtitle>Aaron, Josh and John talk about the game against the Titans and of course the upcoming matchup with Dallass.</itunes:subtitle>
+			<itunes:summary />
+			<enclosure url="http://www.harryhogfootball.com/Episode%20374.mp3" type="audio/mpeg" length="25325905" />
+			<guid>http://www.harryhogfootball.com/Episode%20374.mp3</guid>
+			<pubDate>Tue, 21 Oct 2014 21:56:09 -0400</pubDate>
+			<category>Sports</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>01:00:12</itunes:duration>
+			<itunes:keywords>Washington, Redskins, Harry Hog, Football, NFL, Hail to the Redskins!, &apos;Skins, </itunes:keywords>
+		</item>
 		<item>
 			<title>Episode 373- The Virtual Little Bird Arms</title>
 			<itunes:author>Harry Hog</itunes:author>
