@@ -11,15 +11,5 @@ open(my $xml, '>', 'hhf.xml');
 print $xml $content;
 close $xml;
 
-print "Content-type:text/html\r\n\r\n";
-print '<html>';
-print '<head>';
-print '<title>Ran the scipt</title>';
-print '</head>';
-print '<body>';
-print '<h2>It has been run. Bye.</h2>';
-print '</body>';
-print '</html>';
-
-1;
+print "Wrote content to hhf.xml\n";
 
