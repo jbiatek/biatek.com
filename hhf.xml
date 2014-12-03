@@ -2,7 +2,7 @@
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<atom:link rel="self" type="application/rss+xml" href="http://www.harryhogfootball.com/podcast.xml" />
-		<lastBuildDate>Sat, 29 Nov 2014 20:26:06 -0500</lastBuildDate>
+		<lastBuildDate>Tue, 02 Dec 2014 22:36:54 -0500</lastBuildDate>
 		<title>Hacked! Harry Hog Football: The Original Washington Redskins Fan Podcast</title>
 		<itunes:author>Harry Hog Football</itunes:author>
 		<link>http://www.harryhogfootball.com</link>
@@ -40,6 +40,20 @@ Hail to the Redskins!</itunes:summary>
 		<itunes:category text="News &amp; Politics" />
 		<itunes:keywords>Washington, Redskins, Harry Hog, Football, NFL, Hail to the Redskins!, &apos;Skins, </itunes:keywords>
 		<itunes:explicit>no</itunes:explicit>
+		<item>
+			<title>Episode 379- The Stone Washed Lava Shorts</title>
+			<itunes:author>Harry Hog</itunes:author>
+			<description><![CDATA[Aaron, Josh, and Tim talk about the debacle against the Colts, we determine who was playing CB (nobody) and discuss Andre Agassi's shorts.]]></description>
+			<itunes:subtitle>Aaron, Josh, and Tim talk about the debacle against the Colts, we determine who was playing CB (nobody) and discuss Andre Agassi&apos;s shorts.</itunes:subtitle>
+			<itunes:summary />
+			<enclosure url="http://www.harryhogfootball.com/Episode%20379.mp3" type="audio/mpeg" length="25252404" />
+			<guid>http://www.harryhogfootball.com/Episode%20379.mp3</guid>
+			<pubDate>Tue, 02 Dec 2014 22:34:38 -0500</pubDate>
+			<category>Sports</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>01:00:02</itunes:duration>
+			<itunes:keywords>Washington, Redskins, Harry Hog, Football, NFL, Hail to the Redskins!, &apos;Skins, </itunes:keywords>
+		</item>
 		<item>
 			<title>Episode 378- The Thanksgiving Week Debacle</title>
 			<itunes:author>Harry Hog Football</itunes:author>
