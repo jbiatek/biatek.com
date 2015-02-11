@@ -39,22 +39,38 @@ Hail to the Redskins!</itunes:summary>
 		<category>News &amp; Politics</category>
 		<itunes:category text="News &amp; Politics" />
 		<itunes:keywords>Washington, Redskins, Harry Hog, Football, NFL, Hail to the Redskins!, &apos;Skins, </itunes:keywords>
-		<itunes:explicit>no</itunes:explicit>
-<item>
-			<title>Episode 383- The Canadians.</title>
+        <itunes:explicit>no</itunes:explicit>
+
+<title>Episode 384- Unicorn Armpit Hair.</title>
 			<itunes:author>Harry Hog</itunes:author>
-			<description><![CDATA[Aaron, Josh and John talk about talk about Canadians and Redskins football.]]></description>
+			<description><![CDATA[Aaron, Josh and John talk about new coaches, players to keep, players to cut, etc.]]></description>
 			<itunes:subtitle>Aaron, Josh and John talk about talk about Canadians and Redskins football.</itunes:subtitle>
 			<itunes:summary />
-			<enclosure url="http://www.harryhogfootball.com/Episode%20383.mp3" type="audio/mpeg" length="23565400" />
-			<guid>http://www.harryhogfootball.com/Episode%20383.mp3</guid>
+			<enclosure url="http://www.harryhogfootball.com/Episode%20384.mp3" type="audio/mpeg" length="23565400" />
+			<guid>http://www.harryhogfootball.com/Episode%20384.mp3</guid>
 			<pubDate>Thu, 15 Jan 2015 21:39:00 -0500</pubDate>
 			<category>Sports</category>
 			<itunes:explicit>no</itunes:explicit>
 			<itunes:duration>00:58:19</itunes:duration>
 			<itunes:keywords>Washington, Redskins, Harry Hog, Football, NFL, Hail to the Redskins!, &apos;Skins, </itunes:keywords>
 		</item>
-		<item>
+
+
+<item>
+            <title>Episode 383- The Canadians.</title>
+            <itunes:author>Harry Hog</itunes:author>
+            <description><![CDATA[Aaron, Josh and John talk about talk about Canadians and Redskins football.]]></description>
+            <itunes:subtitle>Aaron, Josh and John talk about talk about Canadians and Redskins football.</itunes:subtitle>
+            <itunes:summary />
+            <enclosure url="http://www.harryhogfootball.com/Episode%20383.mp3" type="audio/mpeg" length="23565400" />
+            <guid>http://www.harryhogfootball.com/Episode%20384.mp3</guid>
+            <pubDate>Tue, 10 Feb 2015 22:16:00 -0500</pubDate>
+            <category>Sports</category>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>01:00:59</itunes:duration>
+            <itunes:keywords>Washington, Redskins, Harry Hog, Football, NFL, Hail to the Redskins!, &apos;Skins, </itunes:keywords>
+        </item>
+					<item>
 			<title>Episode 382- How to Cook a Bird for Christmas.</title>
 			<itunes:author>Harry Hog</itunes:author>
 			<description><![CDATA[Aaron, Josh and John talk about the WIN against the Eagles.]]></description>
