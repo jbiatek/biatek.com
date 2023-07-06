@@ -1,4 +1,8 @@
-# Released under MIT License
+# Blog content
+
+Copyright (c) 2023 Jason Biatek. All rights reserved.
+
+# Lanyon theme
 
 Copyright (c) 2014 Mark Otto.
 
