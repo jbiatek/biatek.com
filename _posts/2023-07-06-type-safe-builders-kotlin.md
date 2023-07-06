@@ -56,7 +56,7 @@ fun String.clapBack(): String {
 
 println("Hot dogs are not sandwiches and it's silly to argue about it".clapBack())
 
-1. // HOT👏DOGS👏ARE👏NOT👏SANDWICHES👏AND👏IT'S👏SILLY👏TO👏ARGUE👏ABOUT👏IT
+// HOT👏DOGS👏ARE👏NOT👏SANDWICHES👏AND👏IT'S👏SILLY👏TO👏ARGUE👏ABOUT👏IT
 ```
 
 (Technically this is an extension function, which is not exactly the same thing as a lambda with a receiver type, but they are basically the same idea.)
