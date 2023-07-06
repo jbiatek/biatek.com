@@ -61,7 +61,7 @@ println("Hot dogs are not sandwiches and it's silly to argue about it".clapBack(
 
 (Technically this is an extension function, which is not exactly the same thing as a lambda with a receiver type, but they are basically the same idea.)
 
-Finally, the `+` in front of the strings is an operator override of `unaryPlus`, in this case being used to define a shorthand for adding the String literal to the object being constructed. A verbose but more intuitive way to do this would be to just have a normal function call or property assignment, like `title { this.content = "My super cool blog post" }`.
+Finally, the `+` in front of the strings in the HTML DSL is an operator override of `unaryPlus`, in this case being used to define a shorthand for adding the String literal to the object being constructed. A verbose but more intuitive way to do this would be to just have a normal function call or property assignment, like `title { this.content = "My super cool blog post" }`.
 
 Now we can start to understand what's going on in the example above. Although the `html`, `head`, `title`, etc. blocks look a bit like static data, they are actually functions, with lambda expressions as their arguments. Each one is responsible for creating, building, and structuring an object, and since they are all functions, the type system of Kotlin can ensure that everything is structured correctly. As the Kotlin documentation points out, each of these functions are doing basically the same thing, just with different types of object, so a single generic version can be reused for all of them.
 
